@@ -18,13 +18,12 @@
     "request": "^2.85.0",
     "request-promise": "^4.2.0",
     "rxjs": "6.2.0",
-    "sails": "^1.0.0",
     "fs-extra": "^7.0.0"
   },
   "devDependencies": {
     "mocha": "^5.1.1",
-    "sails": "^1.0.0",
     "path-exists": "^3.0.0",
+    "sails": "^1.0.2",
     "typescript": ">=2.4.2 <2.7.0"
   }
 }
